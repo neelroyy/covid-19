@@ -23,22 +23,22 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
 10. US Poverty Rates datset: PovertyEstimates.csv
 
 # Code File Explanations
-Analysis 1 - Case Count and New Case Count.ipynb
+<u><b>Analysis 1 - Case Count and New Case Count.ipynb</u></b>
 <ul><li>Datasets: Main COVID-19 Dataset</li>
 <li>Graphs Produced: <ul>
         <li>Total People Positive Case Count Over Time (daily, by week)</li>
         <li>People Positive New Case Counts Over Time (daily, by week)</li></ul></ul>
         
-COVID Vaccinations.ipynb
+<u><b>COVID Vaccinations.ipynb</u></b>
 <ul><li>Datasets: Vaccination Rates Dataset</li>
 <li>Graphs Produced:<ul>
         <li>COVID-19 Total Vaccination Rates in the US over time</li>            
         <li>COVID-19 Total People Vaccinated in the US over time</li>
         <li>COVID-19 Daily Vaccination Rates in the US over time</li></ul></ul>
         
-IR_1.ipynb - can be deleted?
+<u><b>IR_1.ipynb - can be deleted?</u></b>
 
-IR_Covid_19_Final.ipynb
+<u><b>IR_Covid_19_Final.ipynb</u></b>
 <ul><li>Datasets: <ul>
         <li>Main COVID-19 Dataset</li>
         <li>COVID-19 Testing Dataset</li>
@@ -51,14 +51,14 @@ IR_Covid_19_Final.ipynb
         <li>COVID-19 tests vs. COVID-19 cases</li>
         <li>US map with COVID-19 cases and deaths</li></ul></ul>
         
-jennafile.ipynb
+<u><b>jennafile.ipynb</u></b>
 <ul><li>Datasets: <ul>
         <li>Main COVID-19 Dataset</li></ul>
 <li>Graphs Produced: <ul>
         <li>Total People Death Count Over Time</li>
         <li>New People Death Counts Over Time</li></ul></ul>
        
-rhiana_file.ipynb
+<u><b>rhiana_file.ipynb</u></b>
 <ul><li>Datasets: <ul>
         <li>Main COVID-19 Dataset</li>
         <li>US County Population Dataset</li>
