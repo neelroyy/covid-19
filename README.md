@@ -35,8 +35,6 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
         <li>COVID-19 Total Vaccination Rates in the US over time</li>            
         <li>COVID-19 Total People Vaccinated in the US over time</li>
         <li>COVID-19 Daily Vaccination Rates in the US over time</li></ul></ul>
-        
-<u><b>IR_1.ipynb - can be deleted?</u></b>
 
 <u><b>IR_Covid_19_Final.ipynb</u></b>
 <ul><li>Datasets: <ul>
