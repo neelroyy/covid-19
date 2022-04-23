@@ -23,17 +23,17 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
 10. US Poverty Rates datset: PovertyEstimates.csv
 
 # Code File Explanations
-1. Analysis 1 - Case Count and New Case Count.ipynb
+Analysis 1 - Case Count and New Case Count.ipynb
 <ul><li>Uses: Main COVID-19 Dataset</li>
-<li>Graphs Produced:
-        Total People Positive Case Count Over Time (daily, by week),
-        People Positive New Case Counts Over Time (daily, by week)</li></ul>
-2. COVID Vaccinations.ipynb
-        Uses: Vaccination Rates Dataset
-        Graphs Produced: 
-              COVID-19 Total Vaccination Rates in the US over time              
-              COVID-19 Total People Vaccinated in the US over time
-              COVID-19 Daily Vaccination Rates in the US over time
+<li>Graphs Produced:</li>
+<li>&emsp Total People Positive Case Count Over Time (daily, by week)</li>
+<li>&emsp People Positive New Case Counts Over Time (daily, by week)</li></ul>
+COVID Vaccinations.ipynb
+<ul><li>Uses: Vaccination Rates Dataset</li>
+<li>Graphs Produced:</li>
+        <li>&emsp COVID-19 Total Vaccination Rates in the US over time</li>            
+        <li>&emsp COVID-19 Total People Vaccinated in the US over time</li>
+        <li>&emsp COVID-19 Daily Vaccination Rates in the US over time</li></ul>
 2. IR_1.ipynb
         can be deleted?
 3. IR_Covid_19_Final.ipynb
