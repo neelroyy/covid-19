@@ -24,20 +24,22 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
 
 # Code File Explanations
 Analysis 1 - Case Count and New Case Count.ipynb
-<ul><li>Uses: Main COVID-19 Dataset</li>
+<ul><li>Datasets: Main COVID-19 Dataset</li>
 <li>Graphs Produced: <ul>
         <li>Total People Positive Case Count Over Time (daily, by week)</li>
         <li>People Positive New Case Counts Over Time (daily, by week)</li></ul></ul>
+        
 COVID Vaccinations.ipynb
-<ul><li>Uses: Vaccination Rates Dataset</li>
+<ul><li>Datasets: Vaccination Rates Dataset</li>
 <li>Graphs Produced:<ul>
         <li>COVID-19 Total Vaccination Rates in the US over time</li>            
         <li>COVID-19 Total People Vaccinated in the US over time</li>
         <li>COVID-19 Daily Vaccination Rates in the US over time</li></ul></ul>
-2. IR_1.ipynb
-        can be deleted?
-3. IR_Covid_19_Final.ipynb
-<ul><li>Uses: <ul>
+        
+IR_1.ipynb - can be deleted?
+
+IR_Covid_19_Final.ipynb
+<ul><li>Datasets: <ul>
         <li>Main COVID-19 Dataset</li>
         <li>COVID-19 Testing Dataset</li>
         <li>US State Populations Dataset</li>
@@ -48,27 +50,30 @@ COVID Vaccinations.ipynb
         <li>Total COVID-19 tests in US over time, and %test </li>
         <li>COVID-19 tests vs. COVID-19 cases</li>
         <li>US map with COVID-19 cases and deaths</li></ul></ul>
-4. jennafile.ipynb
-        Uses: Main COVID-19 Dataset
-        Graphs Produced: 
-              Total People Death Count Over Time
-              New People Death Counts Over Time
-5. rhiana_file.ipynb
-        Uses: Main COVID-19 Dataset
-              US County Population Dataset
-              Mask Mandates Dataset
-              County Diversity Dataset
-              2020 Election Results Dataset
-              US Poverty Rates dataset              
-        Graphs Produced:
-              COVID-19 Case/Death rates in each state as percentage of total population
-              Political party afflitiation vs. COVID-19 outcomes by county
-              Poverty rates vs. COVID-19 outcomes by county, & overall and split by party
-              Racial Diversity vs. COVID-19 outcomes, overall and split by ethnicity
-              COVID-19 outcomes over time, split by mask mandate status            
+        
+jennafile.ipynb
+<ul><li>Datasets: <ul>
+        <li>Main COVID-19 Dataset</li></ul>
+<li>Graphs Produced: <ul>
+        <li>Total People Death Count Over Time</li>
+        <li>New People Death Counts Over Time</li></ul></ul>
+       
+rhiana_file.ipynb
+<ul><li>Datasets: <ul>
+        <li>Main COVID-19 Dataset</li>
+        <li>US County Population Dataset</li>
+        <li>Mask Mandates Dataset</li>
+        <li>County Diversity Dataset</li>
+        <li>2020 Election Results Dataset</li>
+        <li>US Poverty Rates dataset</li></ul>             
+<li>Graphs Produced: <ul>
+        <li>COVID-19 Case/Death rates in each state as percentage of total population</li>
+        <li>Political party afflitiation vs. COVID-19 outcomes by county</li>
+        <li>Poverty rates vs. COVID-19 outcomes by county, & overall and split by party</li>
+        <li>Racial Diversity vs. COVID-19 outcomes, overall and split by ethnicity</li>
+        <li>COVID-19 outcomes over time, split by mask mandate status</li></ul></ul>           
               
-7. states.py
-        Dictionary for translating state abbreviations into full names
+states.py: Dictionary for translating state abbreviations into full names
 
 # Results Summarized and Presented here:
 https://docs.google.com/presentation/d/19lU2e8rQZbQVZUvdm0qKNV4nQXz5wrsFhnQ6YitGQPI/edit#slide=id.g1256fb98159_0_4
