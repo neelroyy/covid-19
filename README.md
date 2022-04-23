@@ -47,7 +47,7 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
         <li>Total COVID-19 cases and deaths in each state</li>
         <li>Total COVID-19 tests in US over time, and %test </li>
         <li>COVID-19 tests vs. COVID-19 cases</li>
-        <li>US map with COVID-19 cases and deaths</li></ul></ul>
+        <li>US map with COVID-19 cases, deaths, and tests</li></ul></ul>
         
 <u><b>jennafile.ipynb</u></b>
 <ul><li>Datasets: <ul>
