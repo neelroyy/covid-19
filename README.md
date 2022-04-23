@@ -24,10 +24,10 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
 
 # Code File Explanations
 1. Analysis 1 - Case Count and New Case Count.ipynb
-        Uses: Main COVID-19 Dataset
-        Graphs Produced: 
-              Total People Positive Case Count Over Time (daily, by week)
-              People Positive New Case Counts Over Time (daily, by week)
+<ul><li>Uses: Main COVID-19 Dataset</li>
+<li>Graphs Produced:</li>
+        <li>Total People Positive Case Count Over Time (daily, by week)</li>
+        <li>People Positive New Case Counts Over Time (daily, by week)</li>
 2. COVID Vaccinations.ipynb
         Uses: Vaccination Rates Dataset
         Graphs Produced: 
