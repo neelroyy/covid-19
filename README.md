@@ -23,30 +23,31 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
 10. US Poverty Rates datset: PovertyEstimates.csv
 
 # Code File Explanations
-1. Analysis 1 - Case Count and New Case Count.ipynb
+Analysis 1 - Case Count and New Case Count.ipynb
 <ul><li>Uses: Main COVID-19 Dataset</li>
 <li>Graphs Produced: <ul>
         <li>Total People Positive Case Count Over Time (daily, by week)</li>
-        <li>People Positive New Case Counts Over Time (daily, by week)</li></ul>
-2. COVID Vaccinations.ipynb
+        <li>People Positive New Case Counts Over Time (daily, by week)</li></ul></ul>
+COVID Vaccinations.ipynb
 <ul><li>Uses: Vaccination Rates Dataset</li>
 <li>Graphs Produced:<ul>
-        <li>&emsp COVID-19 Total Vaccination Rates in the US over time</li>            
-        <li>&emsp COVID-19 Total People Vaccinated in the US over time</li>
-        <li>&emsp COVID-19 Daily Vaccination Rates in the US over time</li></ul>
+        <li>COVID-19 Total Vaccination Rates in the US over time</li>            
+        <li>COVID-19 Total People Vaccinated in the US over time</li>
+        <li>COVID-19 Daily Vaccination Rates in the US over time</li></ul></ul>
 2. IR_1.ipynb
         can be deleted?
 3. IR_Covid_19_Final.ipynb
-        Uses: Main COVID-19 Dataset
-              COVID-19 Testing Dataset
-              US State Populations Dataset
-              Shape Data
-        Graphs Produced: 
-              Total COVID-19 cases and deaths in US over time
-              Total COVID-19 cases and deaths in each state
-              Total COVID-19 tests in US over time, and %test
-              COVID-19 tests vs. COVID-19 cases
-              US map with COVID-19 cases and deaths
+<ul><li>Uses: <ul>
+        <li>Main COVID-19 Dataset</li>
+        <li>COVID-19 Testing Dataset</li>
+        <li>US State Populations Dataset</li>
+        <li>Shape Data</li></ul>
+<li>Graphs Produced: <ul>
+        <li>Total COVID-19 cases and deaths in US over time</li>
+        <li>Total COVID-19 cases and deaths in each state</li>
+        <li>Total COVID-19 tests in US over time, and %test </li>
+        <li>COVID-19 tests vs. COVID-19 cases</li>
+        <li>US map with COVID-19 cases and deaths</li></ul></ul>
 4. jennafile.ipynb
         Uses: Main COVID-19 Dataset
         Graphs Produced: 
