@@ -23,14 +23,14 @@ Indranil Roy, Jenna Jorstad, Rhiana Schafer, Ying Sun
 10. US Poverty Rates datset: PovertyEstimates.csv
 
 # Code File Explanations
-Analysis 1 - Case Count and New Case Count.ipynb
+1. Analysis 1 - Case Count and New Case Count.ipynb
 <ul><li>Uses: Main COVID-19 Dataset</li>
-<li>Graphs Produced:</li>
-<li>&emsp Total People Positive Case Count Over Time (daily, by week)</li>
-<li>&emsp People Positive New Case Counts Over Time (daily, by week)</li></ul>
-COVID Vaccinations.ipynb
+<li>Graphs Produced: <ul>
+        <li>Total People Positive Case Count Over Time (daily, by week)</li>
+        <li>People Positive New Case Counts Over Time (daily, by week)</li></ul>
+2. COVID Vaccinations.ipynb
 <ul><li>Uses: Vaccination Rates Dataset</li>
-<li>Graphs Produced:</li>
+<li>Graphs Produced:<ul>
         <li>&emsp COVID-19 Total Vaccination Rates in the US over time</li>            
         <li>&emsp COVID-19 Total People Vaccinated in the US over time</li>
         <li>&emsp COVID-19 Daily Vaccination Rates in the US over time</li></ul>
